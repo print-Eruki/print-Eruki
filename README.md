@@ -16,7 +16,7 @@ Some of my projects are finsihed or in progress!
 
 ## Below you will find my github and Language statistics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=print-Eruki&count_private=true&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=print-Eruki&count_private=true&show_icons=true&theme=synthwave)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=print-Eruki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
