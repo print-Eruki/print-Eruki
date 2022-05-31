@@ -11,7 +11,7 @@
 - CourseWork Projects
 - Colaborations 
 - Team Projects
-Some of this project are finsihed or in progress!
+ Some of this project are finsihed or in progress!
 
 ## Below you will find my github and Language statistics
 
