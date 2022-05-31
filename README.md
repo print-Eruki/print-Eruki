@@ -13,10 +13,10 @@
 - Team Projects
 Some of this project are finsihed or in progress!
 
-###Below you will find my github and Language statistics
+## Below you will find my github and Language statistics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?print-eruki=anuraghazra&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?print-Eruki=anuraghazra&count_private=true&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?print-Eruki=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
