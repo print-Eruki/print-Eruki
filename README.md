@@ -20,7 +20,7 @@ Some of my projects are finsihed or in progress!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=print-Eruki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Pinned below are some of my favorites projects and the ones I considered I learned the most
+### Pinned below are some of my favorite and most rewarding projects
 
 <!---
 print-Eruki/print-Eruki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
