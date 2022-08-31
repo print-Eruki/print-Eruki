@@ -18,7 +18,7 @@ Some of my projects are finsihed or in progress!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=print-Eruki&count_private=true&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=print-Eruki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=print-Eruki&layout=compact&hide=makefile)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Pinned below are some of my favorite and most rewarding projects
 
