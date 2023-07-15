@@ -1,10 +1,9 @@
 ## Hi, I’m Ale Pagan and here you will find out more about me!
 - 💻 I'm studying Software Engineering in the University of Puerto Rico, Mayagüez Campus!
-- 🙂 I’m interested in Machine Learning and Game Development!
-- 👀 I’m currently learning HTML, CSS, Javascript, React and data structures!
+- 🙂 I’m interested in Fulls stack and embedded software engineer !
+- 👀 I’m currently learning AWS services like: lambda and API gateway!
 - 👋 A way to contact or know more about me is through [Linkedin](https://www.linkedin.com/in/ale-pagan/)!
 - 🔎 I'm currently looking for Internships and COOP oportunities to further enhance my skills and knowledge! 
-- 👨🏼‍💻 I like video games and Anime, if you like one of this we already have something common!
 
 ## In my profile you will find:
 - Personal Projects
