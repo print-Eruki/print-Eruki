@@ -6,6 +6,8 @@
 
 ### Github Stats
 ![Languages](https://github.com/print-Eruki/github-stats-transparent/blob/output/generated/languages.svg) ![Overview](https://github.com/print-Eruki/github-stats-transparent/blob/output/generated/overview.svg)
+### Leetcode Stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/Eruki)
 
 ## In my profile you will find:
 - Personal Projects
